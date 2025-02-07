@@ -1,0 +1,10 @@
+section {
+    display: flex;
+    justify-content: center;
+    min-height: 900px;
+}
+
+.showTime {
+    width: 80%;
+    min-height: auto;
+}
